@@ -1,0 +1,1 @@
+add_definitions(-DCMAKE_TOOLCHAIN_FILE="")
